@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Amal 
+## JUGGRU
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=https://www.linkpicture.com/q/IMG_20210824_140710_712.jpg>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+CLICK TO JOIN MY BOT GRP 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L7A0pD3hVo83Fj6M3E8slX)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JUGGRU-SER-12/JUGGRUBOTZ)
      </div>
 <br>
 <br >
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### JUGGRU SER
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![JUGGRU SER](<img src=https://www.linkpicture.com/q/PicsArt_08-24-02.22.58.jpg>
+ https://github.com/JUGGRU-SER-12 |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[JUGGRU SER](https://github.com/JUGGRU-SER-12 )  |
 Base, Bug Fixes, Modules | 
   
     
