@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://tinyurl.com/yjo8blfx";
+  r_text[0] = "https://tinyurl.com/39yucpsv";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,10 +19,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Amal*
-*owner number wa.me/919895828468*
-*bot setting video : https://youtu.be/VR_ppqEl2q8*
-*githublink       https://github.com/cyberchekuthan/Amalser_v1*
-*audio commads     https://github.com/cyberchekuthan/Amalser_v1/tree/master/uploads*
+*owner number wa.me/919656813724*
+*yt channel : https://youtu.be/74RMmXW5bQk*
+*githublink       https://github.com/JUGGRU-SER-12/JUGGRUBOTZ*
+*audio commads     https://github.com/JUGGRU-SER-12/JUGGRUBOTZ/tree/master/uploads*
 `}) 
 
 }));
