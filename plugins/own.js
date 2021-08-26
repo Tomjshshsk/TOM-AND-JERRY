@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 amalser.
+/* Copyright (C) 2021 juggruser.
 Edited by juggruser.
 */
 
