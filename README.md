@@ -3,7 +3,7 @@
 ## TOM AND JERRY
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/Screenshot_20210926-200950.png>
+  <img src=https://www.linkpicture.com/q/+91 99953 47220 20210923_104759~2.jpg>
 
 ## 📢 Guide
 CLICK TO JOIN MY BOT GRP 👇
