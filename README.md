@@ -1,9 +1,9 @@
 <div align="center">
 
-## JUGGRU
+## TOM AND JERRY
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG_20210824_140710_712.jpg>
+  <img src=https://www.linkpicture.com/q/Screenshot_20210926-200950.png>
 
 ## 📢 Guide
 CLICK TO JOIN MY BOT GRP 👇
@@ -22,7 +22,7 @@ CLICK TO JOIN MY BOT GRP 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JUGGRU-SER-12/JUGGRUBOTZ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOM AND JERRY-SER-12/TOM AND JERRYBOTZ)
      </div>
 <br>
 <br >
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### JUGGRU SER
+### TOM AND JERRY SER
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![JUGGRU SER](<img src=https://www.linkpicture.com/q/PicsArt_08-24-02.22.58.jpg>
- https://github.com/JUGGRU-SER-12 |  
+  [![TOM AND JERRY SER](<img src=https://www.linkpicture.com/q/PicsArt_08-24-02.22.58.jpg>
+ https://github.com/TOM AND JERRY-SER-12 |  
 ----|
-[JUGGRU SER](https://github.com/JUGGRU-SER-12 )  |
+[TOM AND JERRY SER](https://github.com/TOM AND JERRY-SER-12 )  |
 Base, Bug Fixes, Modules | 
   
     
