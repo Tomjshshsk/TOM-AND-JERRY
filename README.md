@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![TOM AND JERRY SER](<img src=https://www.linkpicture.com/q/PicsArt_08-24-02.22.58.jpg>
+  [![TOM AND JERRY SER](<img src=https://>
  https://github.com/TOM AND JERRY-SER-12 |  
 ----|
 [TOM AND JERRY SER](https://github.com/TOM AND JERRY-SER-12 )  |
